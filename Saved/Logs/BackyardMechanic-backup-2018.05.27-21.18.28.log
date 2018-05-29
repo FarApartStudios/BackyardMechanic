@@ -1,0 +1,985 @@
+﻿Log file open, 05/21/18 09:08:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BackyardMechanic
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-559646326) SRandInit(-559646326).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.128999
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.21-01.08.23:814][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.21-01.08.23:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.21-01.08.24:020][  0]LogInit: Computer: TAZITH
+[2018.05.21-01.08.24:020][  0]LogInit: User: dramoth
+[2018.05.21-01.08.24:021][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.05.21-01.08.24:021][  0]LogInit: High frequency timer resolution =3.808592 MHz
+[2018.05.21-01.08.24:021][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.21-01.08.24:021][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.21-01.08.24:021][  0]LogMemory: Process Physical Memory: 275.78 MB used, 275.78 MB peak
+[2018.05.21-01.08.24:021][  0]LogMemory: Process Virtual Memory: 272.48 MB used, 272.48 MB peak
+[2018.05.21-01.08.24:021][  0]LogMemory: Physical Memory: 4756.02 MB used,  11574.86 MB free, 16330.88 MB total
+[2018.05.21-01.08.24:021][  0]LogMemory: Virtual Memory: 4768.17 MB used,  11574.86 MB free, 134217728.00 MB total
+[2018.05.21-01.08.25:394][  0]LogInit: Using OS detected language (en-GB).
+[2018.05.21-01.08.25:394][  0]LogInit: Using OS detected locale (en-AU).
+[2018.05.21-01.08.25:413][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.05.21-01.08.26:501][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.21-01.08.27:705][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.21-01.08.27:981][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.05.21-01.08.27:981][  0]LogD3D11RHI:       11127/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.21-01.08.27:988][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.21-01.08.27:988][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.21-01.08.27:988][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.21-01.08.28:007][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.21-01.08.28:008][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.21-01.08.28:008][  0]LogWindows: EnumDisplayDevices:
+[2018.05.21-01.08.28:008][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.05.21-01.08.28:009][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.05.21-01.08.28:010][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.05.21-01.08.28:010][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.05.21-01.08.28:010][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.21-01.08.28:010][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.05.21-01.08.28:010][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.21-01.08.28:010][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.21-01.08.28:010][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.05.21-01.08.28:225][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.21-01.08.28:277][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.21-01.08.28:343][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (V:/Unreal Projects/BackyardMechanic/Intermediate/Shaders/WorkingDirectory/11952/).
+[2018.05.21-01.08.28:343][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dramoth/AppData/Local/Temp/UnrealShaderWorkingDir/99C351F740FC11F670284CA900ACB3C8/'.
+[2018.05.21-01.08.28:344][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.21-01.08.31:724][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.21-01.08.32:027][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.21-01.08.32:242][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.21-01.08.32:450][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.21-01.08.32:661][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.21-01.08.32:877][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.21-01.08.33:086][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.21-01.08.33:300][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.21-01.08.33:480][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.21-01.08.33:691][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.21-01.08.33:902][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.21-01.08.34:116][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.21-01.08.34:321][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.21-01.08.34:528][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.21-01.08.34:939][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.21-01.08.34:939][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.21-01.08.35:157][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.21-01.08.35:316][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.21-01.08.35:637][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.21-01.08.35:756][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.21-01.08.35:961][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.21-01.08.36:190][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.21-01.08.36:412][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.21-01.08.36:620][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.21-01.08.36:620][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.21-01.08.38:706][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.21-01.08.39:193][  0]LogDerivedDataCache: Loaded boot cache 0.49s 78MB C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.21-01.08.39:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.21-01.08.39:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file V:/Unreal Projects/BackyardMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.21-01.08.39:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.21-01.08.39:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file V:/Unreal Projects/BackyardMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.21-01.08.39:196][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.21-01.08.39:250][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.21-01.08.39:266][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dramoth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.21-01.08.39:299][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.21-01.08.39:309][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.21-01.08.39:313][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.21-01.08.39:314][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.21-01.08.41:223][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.21-01.08.42:715][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.21-01.08.42:892][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.21-01.08.42:892][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.21-01.08.42:893][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.21-01.08.42:893][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.21-01.08.42:893][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.21-01.08.43:039][  0]LogNetVersion: BackyardMechanic , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2904870437)
+[2018.05.21-01.08.43:708][  0]LogAssetRegistry: FAssetRegistry took 0.0974 seconds to start up
+[2018.05.21-01.08.50:237][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 4.005096 seconds
+[2018.05.21-01.08.50:251][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.21-01.08.50:251][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.21-01.08.50:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.21-01.08.50:515][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.21-01.09.01:677][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.21-01.09.01:815][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.21-01.09.01:817][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.04:689][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.21-01.09.06:522][  0]SourceControl: Source control is disabled
+[2018.05.21-01.09.06:523][  0]SourceControl: Source control is disabled
+[2018.05.21-01.09.06:754][  0]SourceControl: Source control is disabled
+[2018.05.21-01.09.06:982][  0]SourceControl: Source control is disabled
+[2018.05.21-01.09.10:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.21-01.09.11:522][  0]LogOcInput: OculusInput pre-init called
+[2018.05.21-01.09.12:696][  0]LogEngine: Initializing Engine...
+[2018.05.21-01.09.12:711][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.21-01.09.13:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.21-01.09.13:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.21-01.09.13:922][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.21-01.09.14:029][  0]LogInit: XAudio2 using 'ASUS VE278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.21-01.09.14:143][  0]LogInit: FAudioDevice initialized.
+[2018.05.21-01.09.14:274][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.21-01.09.14:355][  0]LogInit: Texture streaming: Enabled
+[2018.05.21-01.09.14:757][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.21-01.09.15:286][  0]LogInit: Transaction tracking system initialized
+[2018.05.21-01.09.17:197][  0]BlueprintLog: New page: Editor Load
+[2018.05.21-01.09.20:997][  0]LocalizationService: Localization service is disabled
+[2018.05.21-01.09.23:212][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.05.21-01.09.23:214][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.05.21-01.09.23:214][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2018.05.21-01.09.24:285][  0]LogConsoleResponse: Display: 
+[2018.05.21-01.09.25:005][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.21-01.09.25:006][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.21-01.09.25:006][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.21-01.09.27:044][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/' took 1.11s
+[2018.05.21-01.09.30:268][  0]SourceControl: Source control is disabled
+[2018.05.21-01.09.30:271][  0]Cmd: MAP LOAD FILE="V:/Unreal Projects/BackyardMechanic/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.21-01.09.30:315][  0]LightingResults: New page: Lighting Build
+[2018.05.21-01.09.30:494][  0]MapCheck: New page: Map Check
+[2018.05.21-01.09.30:494][  0]LightingResults: New page: Lighting Build
+[2018.05.21-01.09.38:058][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.21-01.09.38:157][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.21-01.09.38:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.21-01.09.38:552][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 324.953ms to complete.
+[2018.05.21-01.09.38:552][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.282
+[2018.05.21-01.09.39:249][  0]LogCollectionManager: Loaded 0 collections in 0.052349 seconds
+[2018.05.21-01.09.39:555][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' took 0.01s
+[2018.05.21-01.09.39:555][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' took 0.01s
+[2018.05.21-01.09.39:556][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' took 0.01s
+[2018.05.21-01.09.39:556][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.21-01.09.39:585][  0]LogContentBrowser: Native class hierarchy populated in 0.0268 seconds. Added 2363 classes and 519 folders.
+[2018.05.21-01.09.39:847][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.21-01.09.40:133][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.21-01.09.40:311][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.21-01.09.40:863][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2018.05.21-01.09.40:927][  0]LogSlate: Took 0.002360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.21-01.09.40:937][  0]LogSlate: Took 0.001831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.21-01.09.40:959][  0]LogSlate: Took 0.002448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.21-01.09.41:232][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.21-01.09.41:884][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.21-01.09.41:884][  0]LogLoad: (Engine Initialization) Total time: 107.03 seconds
+[2018.05.21-01.09.41:884][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.21-01.09.41:885][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.21-01.09.41:885][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.21-01.09.41:896][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-01.09.41:922][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.41:924][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/', and we were unable to create a new request.
+[2018.05.21-01.09.41:924][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.41:924][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.41:924][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.41:940][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.21-01.09.42:068][  0]LogSlate: Took 0.002305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-01.09.42:101][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.42:103][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/', and we were unable to create a new request.
+[2018.05.21-01.09.42:103][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.42:104][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/', and we were unable to create a new request.
+[2018.05.21-01.09.42:104][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-01.09.42:105][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/', and we were unable to create a new request.
+[2018.05.21-01.09.42:371][  3]LogAssetRegistry: Asset discovery search completed in 58.6859 seconds
+[2018.05.21-01.09.42:376][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.21-01.09.42:376][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000120 seconds (updated 0 objects)
+[2018.05.21-01.09.49:468][562]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.21-01.09.54:629][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.09.54:721][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.21-01.09.54:726][562]PIE: New page: PIE session: ThirdPersonExampleMap (21 May 2018 5:09:54 pm)
+[2018.05.21-01.09.54:726][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.21-01.09.54:776][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049495s)
+[2018.05.21-01.09.54:777][562]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.21-01.09.54:778][562]LogPlayLevel: PIE: World Init took: (0.001925s)
+[2018.05.21-01.09.54:779][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052444s)
+[2018.05.21-01.09.54:877][562]LogInit: XAudio2 using 'ASUS VE278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.21-01.09.54:901][562]LogInit: FAudioDevice initialized.
+[2018.05.21-01.09.55:043][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.21-01.09.55:058][562]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.21-09.09.55
+[2018.05.21-01.09.55:076][562]LogWorld: Bringing up level for play took: 0.027086
+[2018.05.21-01.09.55:308][562]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0020 seconds. Added 11 classes and 0 folders.
+[2018.05.21-01.09.55:324][562]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.061
+[2018.05.21-01.09.55:325][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.10.15:716][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.10.16:070][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.10.22:405][713]LogEditorViewport: Clicking on Actor (LMB): BP_AIOldMan_C (BP_AIOldMan)
+[2018.05.21-01.11.21:402][850]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-01.11.22:131][850]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.21-01.11.22:935][850]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0245 seconds. Added 116 classes and 0 folders.
+[2018.05.21-01.11.25:089][850]LogSlate: Took 0.001870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.21-01.11.25:337][851]LogSlate: Took 0.002031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.21-01.12.24:439][321]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-01.15.12:986][383]BlueprintLog: New page: Compile BP_AIOldMan
+[2018.05.21-01.15.16:697][452]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.21-01.15.17:029][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.15.17:066][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.21-01.15.17:066][452]PIE: New page: PIE session: ThirdPersonExampleMap (21 May 2018 5:15:17 pm)
+[2018.05.21-01.15.17:066][452]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.21-01.15.17:107][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040662s)
+[2018.05.21-01.15.17:109][452]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.21-01.15.17:109][452]LogPlayLevel: PIE: World Init took: (0.001976s)
+[2018.05.21-01.15.17:109][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043273s)
+[2018.05.21-01.15.17:340][452]LogInit: XAudio2 using 'ASUS VE278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.21-01.15.17:365][452]LogInit: FAudioDevice initialized.
+[2018.05.21-01.15.17:449][452]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.21-01.15.17:458][452]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.05.21-09.15.17
+[2018.05.21-01.15.17:462][452]LogWorld: Bringing up level for play took: 0.012307
+[2018.05.21-01.15.17:469][452]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.083
+[2018.05.21-01.15.17:492][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.15.17:796][452]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.21-01.15.49:008][803]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/NPCs/BP_AICharacter.BP_AICharacter_C:ExecuteUbergraph_BP_AICharacter'!
+[2018.05.21-01.15.49:009][803]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	BP_AICharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_AICharacter_2
+	Function /Game/NPCs/BP_AICharacter.BP_AICharacter_C:ExecuteUbergraph_BP_AICharacter:071D
+[2018.05.21-01.15.49:009][803]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_BP_AICharacter' from node: Set Visibility in graph: EventGraph in object: BP_AICharacter with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.05.21-01.15.55:986][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.15.56:410][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.21-01.17.08:948][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/OldMan/BP_AIOldMan" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/OldMan/BP_AIOldMan.uasset" SILENT=true
+[2018.05.21-01.17.12:742][529]LogSavePackage: Save=864.90ms
+[2018.05.21-01.17.12:742][529]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/BP_AIOldManC0F4612D49637BB6B7B2E0BB010AC066.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/OldMan/BP_AIOldMan.uasset'
+[2018.05.21-01.17.13:150][529]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/OldMan/BP_AIOldMan.uasset
+[2018.05.21-01.27.57:963][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.21-01.27.58:926][496]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.21-01.28.15:303][457]LogBlueprint: Error: [Compiler Anim_Grandfather_BP] Play (None)  references an unknown sequence
+[2018.05.21-01.28.15:304][457]LogBlueprint: Error: [Compiler Anim_Grandfather_BP] Play (None)  references an unknown sequence
+[2018.05.21-01.28.15:304][457]LogBlueprint: Error: [Compiler Anim_Grandfather_BP] Missing allocated node for AnimGraphNode_SequencePlayer_17 while searching for node links - likely due to the node having outstanding errors.
+[2018.05.21-01.28.15:305][457]LogBlueprint: Error: [Compiler Anim_Grandfather_BP] Missing allocated node for AnimGraphNode_SequencePlayer_18 while searching for node links - likely due to the node having outstanding errors.
+[2018.05.21-01.28.15:310][457]LogBlueprint: Warning: [Compiler Anim_Grandfather_BP] [1220.46] Compile of Anim_Grandfather_BP failed. 4 Fatal Issue(s) 0 Warning(s) [in 12 ms] (/Game/NPCs/Grandfather/Anim_Grandfather_BP.Anim_Grandfather_BP)
+[2018.05.21-01.28.16:453][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:454][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Grandfather_BS.uasset.
+[2018.05.21-01.28.16:454][457]LoadErrors: Error: /Game/NPCs/Grandfather/Grandfather_BS : Can't find file for asset. /Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001
+[2018.05.21-01.28.16:458][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim'
+[2018.05.21-01.28.16:459][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim' while loading V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Grandfather_BS.uasset.
+[2018.05.21-01.28.16:459][457]LoadErrors: Error: /Game/NPCs/Grandfather/Grandfather_BS : Can't find file for asset. /Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim
+[2018.05.21-01.28.16:460][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:460][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Grandfather_BS.uasset.
+[2018.05.21-01.28.16:461][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim'
+[2018.05.21-01.28.16:462][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim' while loading V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Grandfather_BS.uasset.
+[2018.05.21-01.28.16:467][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:467][457]LoadErrors: Failed to load /Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001.GrandfatherIdle_Anim_Take_001 Referenced by Grandfather_BS
+[2018.05.21-01.28.16:468][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading NULL.
+[2018.05.21-01.28.16:468][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:469][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading NULL.
+[2018.05.21-01.28.16:470][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:470][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading NULL.
+[2018.05.21-01.28.16:471][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:472][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading NULL.
+[2018.05.21-01.28.16:473][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001'
+[2018.05.21-01.28.16:473][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherIdle_Anim_Take_001' while loading NULL.
+[2018.05.21-01.28.16:474][457]LogLinker: Warning: Can't find file '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim'
+[2018.05.21-01.28.16:474][457]LoadErrors: Failed to load /Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim.GrandfatherWalking_Anim Referenced by Grandfather_BS
+[2018.05.21-01.28.16:475][457]LogLinker: Warning: Can't find file for asset '/Game/NPCs/Grandfather/Animations/GrandfatherWalking_Anim' while loading NULL.
+[2018.05.21-01.29.38:416][223]LogMaterial: Missing cached shader map for material body, compiling. 
+[2018.05.21-01.30.30:303][323]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/NPCs/Grandfather/AI_CharacterController.
+[2018.05.21-01.30.30:318][323]LogMaterial: Missing cached shader map for material body, compiling. 
+[2018.05.21-01.30.31:256][323]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/NPCs/Grandfather/BP_AIOldMan.
+[2018.05.21-01.30.31:486][323]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/NPCs/Grandfather/BP_OldManElegant_Anim.
+[2018.05.21-01.30.58:377][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/AI_CharacterController" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/AI_CharacterController.uasset" SILENT=true
+[2018.05.21-01.31.00:010][530]LogSavePackage: Save=559.38ms
+[2018.05.21-01.31.00:010][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/AI_CharacterController7D4C757A4182A38D47329BAE67A6B555.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/AI_CharacterController.uasset'
+[2018.05.21-01.31.00:370][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/AI_CharacterController.uasset
+[2018.05.21-01.31.00:402][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/body" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/body.uasset" SILENT=true
+[2018.05.21-01.31.00:591][530]LogSavePackage: Save=108.92ms
+[2018.05.21-01.31.00:591][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/body76F5D8F341DC5D0AF4E543A9FCD16398.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/body.uasset'
+[2018.05.21-01.31.00:690][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/body.uasset
+[2018.05.21-01.31.00:716][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/BP_AIOldMan" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_AIOldMan.uasset" SILENT=true
+[2018.05.21-01.31.02:253][530]LogSavePackage: Save=1395.67ms
+[2018.05.21-01.31.02:253][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/BP_AIOldMan8B6B94BF4E1B79816A48FFB5846ECA64.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_AIOldMan.uasset'
+[2018.05.21-01.31.02:481][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_AIOldMan.uasset
+[2018.05.21-01.31.02:510][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/BP_OldManElegant_Anim" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_OldManElegant_Anim.uasset" SILENT=true
+[2018.05.21-01.31.03:426][530]LogSavePackage: Save=736.16ms
+[2018.05.21-01.31.03:426][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/BP_OldManElegant_Anim84EF99F94DF660FA904A908FD204B23E.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_OldManElegant_Anim.uasset'
+[2018.05.21-01.31.03:553][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BP_OldManElegant_Anim.uasset
+[2018.05.21-01.31.03:584][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/BS_OldManElegant" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BS_OldManElegant.uasset" SILENT=true
+[2018.05.21-01.31.04:263][530]LogSavePackage: Save=546.11ms
+[2018.05.21-01.31.04:263][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/BS_OldManElegantD26D16DD47CAEA96E392F0A38AA1ADE0.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BS_OldManElegant.uasset'
+[2018.05.21-01.31.04:415][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/BS_OldManElegant.uasset
+[2018.05.21-01.31.04:440][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/casual28_m_70" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70.uasset" SILENT=true
+[2018.05.21-01.31.05:349][530]LogSavePackage: Save=796.29ms
+[2018.05.21-01.31.05:349][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/casual28_m_70117877684B918267C4545EAEEA39A39B.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70.uasset'
+[2018.05.21-01.31.05:437][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70.uasset
+[2018.05.21-01.31.05:462][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/casual28_m_70_spec" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70_spec.uasset" SILENT=true
+[2018.05.21-01.31.05:782][530]LogSavePackage: Save=204.84ms
+[2018.05.21-01.31.05:782][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/casual28_m_70_spec749C823441CA141083DEA29374D498BA.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70_spec.uasset'
+[2018.05.21-01.31.05:976][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/casual28_m_70_spec.uasset
+[2018.05.21-01.31.06:006][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/oldman_elegant" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant.uasset" SILENT=true
+[2018.05.21-01.31.06:874][530]LogSavePackage: Save=707.16ms
+[2018.05.21-01.31.06:875][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/oldman_elegant9356138343F49EB20AAE5DA927075107.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant.uasset'
+[2018.05.21-01.31.06:946][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant.uasset
+[2018.05.21-01.31.06:982][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/oldman_elegant_Anim" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Anim.uasset" SILENT=true
+[2018.05.21-01.31.07:278][530]LogSavePackage: Save=219.86ms
+[2018.05.21-01.31.07:278][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/oldman_elegant_Anim58963CD44D0A9B14126ECDA1C1AEB7DE.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Anim.uasset'
+[2018.05.21-01.31.07:338][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Anim.uasset
+[2018.05.21-01.31.07:375][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/oldman_elegant_PhysicsAsset" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_PhysicsAsset.uasset" SILENT=true
+[2018.05.21-01.31.08:031][530]LogSavePackage: Save=485.96ms
+[2018.05.21-01.31.08:031][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/oldman_elegant_PhysicsAssetF37CC143479EC36FD064C4B94FBD5911.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_PhysicsAsset.uasset'
+[2018.05.21-01.31.08:164][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_PhysicsAsset.uasset
+[2018.05.21-01.31.08:174][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/oldman_elegant_Skeleton" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Skeleton.uasset" SILENT=true
+[2018.05.21-01.31.08:487][530]LogSavePackage: Save=128.16ms
+[2018.05.21-01.31.08:487][530]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/oldman_elegant_SkeletonC52A38214A1518BAEAACDEAA98EF1864.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Skeleton.uasset'
+[2018.05.21-01.31.08:782][530]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/oldman_elegant_Skeleton.uasset
+[2018.05.21-04.04.42:102][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/body" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/body.uasset" SILENT=true
+[2018.05.21-04.04.43:739][210]LogSavePackage: Save=342.20ms
+[2018.05.21-04.04.43:739][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/bodyDB810DFE4BB022E6C62865818F4A545F.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/body.uasset'
+[2018.05.21-04.04.44:273][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/body.uasset
+[2018.05.21-04.04.45:192][210]LogSavePackage: Save=640.10ms
+[2018.05.21-04.04.45:192][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManDescendingStairs98F3071B405D6E3EB45A01B237D56983.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs.uasset'
+[2018.05.21-04.04.45:501][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs.uasset
+[2018.05.21-04.04.45:846][210]LogSavePackage: Save=195.60ms
+[2018.05.21-04.04.45:846][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManDescendingStairs_Anim_mixa4093B86D4197DBE49FE6B5AD9750F628.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_Anim_mixamo_com.uasset'
+[2018.05.21-04.04.46:081][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_Anim_mixamo_com.uasset
+[2018.05.21-04.04.46:427][210]LogSavePackage: Save=185.90ms
+[2018.05.21-04.04.46:427][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManDescendingStairs_Anim_TakeEB2CF2D74F998B4F24EBC98EBA78A004.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_Anim_Take_001.uasset'
+[2018.05.21-04.04.46:529][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_Anim_Take_001.uasset
+[2018.05.21-04.04.47:259][210]LogSavePackage: Save=568.37ms
+[2018.05.21-04.04.47:259][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManDescendingStairs_PhysicsAs8C0370EB42E021E313F3B5A148FEC039.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_PhysicsAsset.uasset'
+[2018.05.21-04.04.47:331][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManDescendingStairs_PhysicsAsset.uasset
+[2018.05.21-04.04.47:378][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManElegantIdle" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle.uasset" SILENT=true
+[2018.05.21-04.04.48:095][210]LogSavePackage: Save=594.28ms
+[2018.05.21-04.04.48:095][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantIdle7630700A4DF454111C6ECF8C235495CA.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle.uasset'
+[2018.05.21-04.04.48:322][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle.uasset
+[2018.05.21-04.04.48:739][210]LogSavePackage: Save=224.81ms
+[2018.05.21-04.04.48:739][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantIdle_Anim_mixamo_co1911BA8F472AD099CDAEB4812237FC18.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_Anim_mixamo_com.uasset'
+[2018.05.21-04.04.48:881][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_Anim_mixamo_com.uasset
+[2018.05.21-04.04.49:242][210]LogSavePackage: Save=192.49ms
+[2018.05.21-04.04.49:242][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantIdle_Anim_Take_00160D7C7E347A316A9250F4CB87004FE18.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_Anim_Take_001.uasset'
+[2018.05.21-04.04.49:394][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_Anim_Take_001.uasset
+[2018.05.21-04.04.50:237][210]LogSavePackage: Save=686.92ms
+[2018.05.21-04.04.50:237][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantIdle_PhysicsAssetF66268564547DC584E528A935A6CBB25.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_PhysicsAsset.uasset'
+[2018.05.21-04.04.50:463][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantIdle_PhysicsAsset.uasset
+[2018.05.21-04.04.50:509][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManElegantRunning" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning.uasset" SILENT=true
+[2018.05.21-04.04.51:279][210]LogSavePackage: Save=619.94ms
+[2018.05.21-04.04.51:279][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantRunning6800042B4B2FCF7F48FEC893C01403C3.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning.uasset'
+[2018.05.21-04.04.51:333][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning.uasset
+[2018.05.21-04.04.51:941][210]LogSavePackage: Save=449.23ms
+[2018.05.21-04.04.51:941][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantRunning_Anim_mixamoF2839534485BE7A679E6DFBE87556FA0.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_Anim_mixamo_com.uasset'
+[2018.05.21-04.04.52:146][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_Anim_mixamo_com.uasset
+[2018.05.21-04.04.52:544][210]LogSavePackage: Save=197.19ms
+[2018.05.21-04.04.52:544][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantRunning_Anim_Take_0DCE522CD4043348E863604BD74974E34.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_Anim_Take_001.uasset'
+[2018.05.21-04.04.52:610][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_Anim_Take_001.uasset
+[2018.05.21-04.04.53:474][210]LogSavePackage: Save=490.10ms
+[2018.05.21-04.04.53:474][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantRunning_PhysicsAsse1108A9674D6C7DE06DC7908A8CF6FE10.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_PhysicsAsset.uasset'
+[2018.05.21-04.04.53:814][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantRunning_PhysicsAsset.uasset
+[2018.05.21-04.04.53:865][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManElegantWalking" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking.uasset" SILENT=true
+[2018.05.21-04.04.55:000][210]LogSavePackage: Save=891.44ms
+[2018.05.21-04.04.55:000][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantWalkingB54DB54540CBAEF8AEDE4F8DECAD533A.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking.uasset'
+[2018.05.21-04.04.55:261][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking.uasset
+[2018.05.21-04.04.55:788][210]LogSavePackage: Save=167.32ms
+[2018.05.21-04.04.55:788][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantWalking_Anim_mixamoA67EFE054E9965336C4ECE9F29BED79D.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_Anim_mixamo_com.uasset'
+[2018.05.21-04.04.55:845][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_Anim_mixamo_com.uasset
+[2018.05.21-04.04.56:136][210]LogSavePackage: Save=162.21ms
+[2018.05.21-04.04.56:136][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantWalking_Anim_Take_02791FEA24CD302C140E7578C71BC964E.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_Anim_Take_001.uasset'
+[2018.05.21-04.04.56:186][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_Anim_Take_001.uasset
+[2018.05.21-04.04.56:913][210]LogSavePackage: Save=529.14ms
+[2018.05.21-04.04.56:913][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManElegantWalking_PhysicsAsse82CF791B482BE0C9DC44B4858C8ED51F.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_PhysicsAsset.uasset'
+[2018.05.21-04.04.57:050][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManElegantWalking_PhysicsAsset.uasset
+[2018.05.21-04.04.57:099][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManLeftTurn90" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLeftTurn90.uasset" SILENT=true
+[2018.05.21-04.04.57:369][210]LogSavePackage: Save=155.17ms
+[2018.05.21-04.04.57:369][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManLeftTurn905259E3994C02E2FFAD019A99A035D51D.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLeftTurn90.uasset'
+[2018.05.21-04.04.57:507][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLeftTurn90.uasset
+[2018.05.21-04.04.57:543][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManLookingAround" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround.uasset" SILENT=true
+[2018.05.21-04.04.58:426][210]LogSavePackage: Save=689.04ms
+[2018.05.21-04.04.58:426][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManLookingAroundA7BE1A1C466C9D44BE9E51916264D31E.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround.uasset'
+[2018.05.21-04.04.58:540][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround.uasset
+[2018.05.21-04.04.58:951][210]LogSavePackage: Save=188.87ms
+[2018.05.21-04.04.58:951][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManLookingAround_Anim_mixamo_C14C3B7A4D409A6D6BC05EBE4C1B5CAA.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_Anim_mixamo_com.uasset'
+[2018.05.21-04.04.59:105][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_Anim_mixamo_com.uasset
+[2018.05.21-04.04.59:617][210]LogSavePackage: Save=194.12ms
+[2018.05.21-04.04.59:617][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManLookingAround_Anim_Take_00958916344DE8F3D8872CD7A7AE68ADC1.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_Anim_Take_001.uasset'
+[2018.05.21-04.04.59:850][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_Anim_Take_001.uasset
+[2018.05.21-04.05.00:829][210]LogSavePackage: Save=856.03ms
+[2018.05.21-04.05.00:829][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManLookingAround_PhysicsAssetF321ADD04B37D39139F6F4B89BE49E1D.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_PhysicsAsset.uasset'
+[2018.05.21-04.05.00:901][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManLookingAround_PhysicsAsset.uasset
+[2018.05.21-04.05.00:949][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManPointing" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing.uasset" SILENT=true
+[2018.05.21-04.05.02:040][210]LogSavePackage: Save=908.35ms
+[2018.05.21-04.05.02:040][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManPointing5EC7C5A64D79E8672BDFB29D9F989879.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing.uasset'
+[2018.05.21-04.05.02:267][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing.uasset
+[2018.05.21-04.05.02:813][210]LogSavePackage: Save=215.42ms
+[2018.05.21-04.05.02:813][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManPointing_Anim_mixamo_com449AC8714B0CD7ADE7A4D2B2D17DB75C.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.02:887][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_Anim_mixamo_com.uasset
+[2018.05.21-04.05.03:281][210]LogSavePackage: Save=169.32ms
+[2018.05.21-04.05.03:282][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManPointing_Anim_Take_0018930B2D04F71937BCD9B86B3B62323C4.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_Anim_Take_001.uasset'
+[2018.05.21-04.05.03:451][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_Anim_Take_001.uasset
+[2018.05.21-04.05.04:293][210]LogSavePackage: Save=563.46ms
+[2018.05.21-04.05.04:293][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManPointing_PhysicsAssetE695CAF04DAC2156F4E2F3A6E3273EAB.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_PhysicsAsset.uasset'
+[2018.05.21-04.05.04:455][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManPointing_PhysicsAsset.uasset
+[2018.05.21-04.05.04:504][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManRightTurn90" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManRightTurn90.uasset" SILENT=true
+[2018.05.21-04.05.05:113][210]LogSavePackage: Save=327.89ms
+[2018.05.21-04.05.05:113][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManRightTurn90E15FB3954824D163B22A818280D0A45B.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManRightTurn90.uasset'
+[2018.05.21-04.05.05:270][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManRightTurn90.uasset
+[2018.05.21-04.05.05:309][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManSitting" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting.uasset" SILENT=true
+[2018.05.21-04.05.06:128][210]LogSavePackage: Save=645.53ms
+[2018.05.21-04.05.06:128][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingADA9FE3A46CB261D2B69BC926BED0105.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting.uasset'
+[2018.05.21-04.05.06:311][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting.uasset
+[2018.05.21-04.05.06:593][210]LogSavePackage: Save=147.37ms
+[2018.05.21-04.05.06:593][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitting_Anim_mixamo_com9D1EAC3746DF992FE6074D9DA9C0CB42.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.06:916][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_Anim_mixamo_com.uasset
+[2018.05.21-04.05.07:218][210]LogSavePackage: Save=140.29ms
+[2018.05.21-04.05.07:218][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitting_Anim_Take_0010CD2A85344571612819E8CADEDB54B25.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_Anim_Take_001.uasset'
+[2018.05.21-04.05.07:452][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_Anim_Take_001.uasset
+[2018.05.21-04.05.08:282][210]LogSavePackage: Save=685.31ms
+[2018.05.21-04.05.08:282][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitting_PhysicsAssetAA50E54543FE31056E5B639D95111224.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_PhysicsAsset.uasset'
+[2018.05.21-04.05.08:651][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitting_PhysicsAsset.uasset
+[2018.05.21-04.05.09:472][210]LogSavePackage: Save=584.35ms
+[2018.05.21-04.05.09:472][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingDisapproval01B9F95F454894CF8CAAD5BA8712CC03.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval.uasset'
+[2018.05.21-04.05.09:572][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval.uasset
+[2018.05.21-04.05.09:938][210]LogSavePackage: Save=234.62ms
+[2018.05.21-04.05.09:938][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingDisapproval_Anim_mi6DFCFD114009CC11E34C5E836A8D80CE.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.10:325][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_Anim_mixamo_com.uasset
+[2018.05.21-04.05.10:901][210]LogSavePackage: Save=249.56ms
+[2018.05.21-04.05.10:901][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingDisapproval_Anim_TaAD9E006F412B1CE6F901A9A6866D1554.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_Anim_Take_001.uasset'
+[2018.05.21-04.05.11:172][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_Anim_Take_001.uasset
+[2018.05.21-04.05.11:973][210]LogSavePackage: Save=610.66ms
+[2018.05.21-04.05.11:973][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingDisapproval_Physics64D5CABD42238D2E626732981BF03092.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_PhysicsAsset.uasset'
+[2018.05.21-04.05.12:171][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingDisapproval_PhysicsAsset.uasset
+[2018.05.21-04.05.12:422][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManSittingIdle" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle.uasset" SILENT=true
+[2018.05.21-04.05.13:234][210]LogSavePackage: Save=601.96ms
+[2018.05.21-04.05.13:234][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingIdleD55C1E6C40ADDDDE0ACB1E9FBEF7320D.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle.uasset'
+[2018.05.21-04.05.13:425][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle.uasset
+[2018.05.21-04.05.13:815][210]LogSavePackage: Save=200.64ms
+[2018.05.21-04.05.13:815][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingIdle_Anim_mixamo_co7DE0C5E5495F1315855DE6A3C7D50E9D.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.14:051][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_Anim_mixamo_com.uasset
+[2018.05.21-04.05.14:367][210]LogSavePackage: Save=156.63ms
+[2018.05.21-04.05.14:367][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingIdle_Anim_Take_00130C0B9834241DC5FD3B53897565CC451.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_Anim_Take_001.uasset'
+[2018.05.21-04.05.14:601][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_Anim_Take_001.uasset
+[2018.05.21-04.05.15:314][210]LogSavePackage: Save=574.08ms
+[2018.05.21-04.05.15:314][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingIdle_PhysicsAsset7E7536B240F516E9B18BFAB52AC57C39.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_PhysicsAsset.uasset'
+[2018.05.21-04.05.15:556][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingIdle_PhysicsAsset.uasset
+[2018.05.21-04.05.16:204][210]LogSavePackage: Save=412.52ms
+[2018.05.21-04.05.16:204][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingThumbsUp26C010D346AEFF94BC6BFF8D6CCBC05F.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp.uasset'
+[2018.05.21-04.05.16:369][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp.uasset
+[2018.05.21-04.05.16:757][210]LogSavePackage: Save=249.17ms
+[2018.05.21-04.05.16:757][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingThumbsUp_Anim_mixamA77CDBC1464EB432CB8799B97A566682.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.16:840][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_Anim_mixamo_com.uasset
+[2018.05.21-04.05.17:370][210]LogSavePackage: Save=229.52ms
+[2018.05.21-04.05.17:370][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingThumbsUp_Anim_Take_DA995A9E4E8D01FB29427389A4C15513.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_Anim_Take_001.uasset'
+[2018.05.21-04.05.17:514][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_Anim_Take_001.uasset
+[2018.05.21-04.05.18:354][210]LogSavePackage: Save=637.27ms
+[2018.05.21-04.05.18:354][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSittingThumbsUp_PhysicsAssF517EB9D48B96F50EBDA16A9C6F7CE0C.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_PhysicsAsset.uasset'
+[2018.05.21-04.05.18:874][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSittingThumbsUp_PhysicsAsset.uasset
+[2018.05.21-04.05.18:982][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManSitToStand" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand.uasset" SILENT=true
+[2018.05.21-04.05.19:743][210]LogSavePackage: Save=659.92ms
+[2018.05.21-04.05.19:743][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitToStandE185CF9844FBAE1B3E3BEAB88DA64B5F.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand.uasset'
+[2018.05.21-04.05.19:849][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand.uasset
+[2018.05.21-04.05.20:315][210]LogSavePackage: Save=218.42ms
+[2018.05.21-04.05.20:315][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitToStand_Anim_mixamo_com415A3B5B49F99BCDC85F8F91F7DDDA62.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.20:540][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_Anim_mixamo_com.uasset
+[2018.05.21-04.05.21:119][210]LogSavePackage: Save=169.12ms
+[2018.05.21-04.05.21:119][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitToStand_Anim_Take_00148466949401173B085D072AB68D2EAB2.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_Anim_Take_001.uasset'
+[2018.05.21-04.05.21:303][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_Anim_Take_001.uasset
+[2018.05.21-04.05.22:436][210]LogSavePackage: Save=905.67ms
+[2018.05.21-04.05.22:436][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManSitToStand_PhysicsAsset72980102406BE82D4C83509C7B769E84.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_PhysicsAsset.uasset'
+[2018.05.21-04.05.22:679][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManSitToStand_PhysicsAsset.uasset
+[2018.05.21-04.05.22:739][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPCs/Grandfather/Animations/OldManStandToSit" FILE="V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit.uasset" SILENT=true
+[2018.05.21-04.05.23:946][210]LogSavePackage: Save=944.07ms
+[2018.05.21-04.05.23:946][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStandToSitC8154F95469564D0ABF8D8BBB2927129.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit.uasset'
+[2018.05.21-04.05.24:081][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit.uasset
+[2018.05.21-04.05.24:882][210]LogSavePackage: Save=438.23ms
+[2018.05.21-04.05.24:882][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStandToSit_Anim_mixamo_com6B50BA8146868B545406B4A8EF924F79.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.25:368][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_Anim_mixamo_com.uasset
+[2018.05.21-04.05.26:242][210]LogSavePackage: Save=322.55ms
+[2018.05.21-04.05.26:242][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStandToSit_Anim_Take_001696921AE44222EBAE81F4B902D001169.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_Anim_Take_001.uasset'
+[2018.05.21-04.05.28:019][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_Anim_Take_001.uasset
+[2018.05.21-04.05.30:421][210]LogSavePackage: Save=1429.67ms
+[2018.05.21-04.05.30:421][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStandToSit_PhysicsAsset1BAB99054D1601D27A7166BD45C88416.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_PhysicsAsset.uasset'
+[2018.05.21-04.05.30:742][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStandToSit_PhysicsAsset.uasset
+[2018.05.21-04.05.32:007][210]LogSavePackage: Save=294.14ms
+[2018.05.21-04.05.32:007][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStartWalking_mixamo_com760580D74560E6A068013995C12B39A5.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStartWalking_mixamo_com.uasset'
+[2018.05.21-04.05.32:092][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStartWalking_mixamo_com.uasset
+[2018.05.21-04.05.32:482][210]LogSavePackage: Save=226.79ms
+[2018.05.21-04.05.32:482][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStartWalking_Take_00164FC045A4E861410A956E6BC0849D44B.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStartWalking_Take_001.uasset'
+[2018.05.21-04.05.32:797][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStartWalking_Take_001.uasset
+[2018.05.21-04.05.33:435][210]LogSavePackage: Save=298.02ms
+[2018.05.21-04.05.33:435][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStopWalking_mixamo_comC54629BD453A0B57F67C3DA1F238DCCB.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStopWalking_mixamo_com.uasset'
+[2018.05.21-04.05.33:738][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStopWalking_mixamo_com.uasset
+[2018.05.21-04.05.34:018][210]LogSavePackage: Save=139.23ms
+[2018.05.21-04.05.34:018][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManStopWalking_Take_00197C271FD4E9B52DD42C5C1859C470679.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStopWalking_Take_001.uasset'
+[2018.05.21-04.05.34:071][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManStopWalking_Take_001.uasset
+[2018.05.21-04.05.34:655][210]LogSavePackage: Save=440.95ms
+[2018.05.21-04.05.34:655][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManWalkingUpTheStairsF50FAABF48E2A90825DEF6ABC6F54BB4.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs.uasset'
+[2018.05.21-04.05.34:778][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs.uasset
+[2018.05.21-04.05.35:052][210]LogSavePackage: Save=129.16ms
+[2018.05.21-04.05.35:053][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManWalkingUpTheStairs_Anim_mi6F1F91414BB6849D15818C875C13FD0B.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_Anim_mixamo_com.uasset'
+[2018.05.21-04.05.35:251][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_Anim_mixamo_com.uasset
+[2018.05.21-04.05.35:610][210]LogSavePackage: Save=179.16ms
+[2018.05.21-04.05.35:610][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManWalkingUpTheStairs_Anim_Ta44BB7CF6461E1432FBA29A8E3B7560C3.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_Anim_Take_001.uasset'
+[2018.05.21-04.05.35:838][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_Anim_Take_001.uasset
+[2018.05.21-04.05.36:874][210]LogSavePackage: Save=670.18ms
+[2018.05.21-04.05.36:874][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/OldManWalkingUpTheStairs_Physics65E3321648EC2746C29D81A9D9661170.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_PhysicsAsset.uasset'
+[2018.05.21-04.05.37:148][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/NPCs/Grandfather/Animations/OldManWalkingUpTheStairs_PhysicsAsset.uasset
+[2018.05.21-04.05.47:343][210]LogSavePackage: Save=2517.00ms
+[2018.05.21-04.05.47:343][210]LogSavePackage: Moving 'V:/Unreal Projects/BackyardMechanic/Saved/ThirdPersonExampleMap6D863A12483EEBDB0DB0D8BAAEA91A60.tmp' to 'V:/Unreal Projects/BackyardMechanic/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.21-04.05.47:643][210]LogSavePackage: Display: Finished SavePackage V:/Unreal Projects/BackyardMechanic/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.21-04.05.47:927][210]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 10.653
+[2018.05.21-04.05.49:118][211]Cmd: QUIT_EDITOR
+[2018.05.21-04.05.50:075][211]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-04.05.50:232][211]LogExit: Preparing to exit.
+[2018.05.21-04.05.50:719][211]LogExit: Editor shut down
+[2018.05.21-04.05.50:735][211]LogExit: Transaction tracking system shut down
+[2018.05.21-04.05.52:745][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.21-04.05.52:745][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.21-04.05.52:745][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.21-04.05.52:746][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.21-04.05.52:746][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.21-04.05.52:746][211]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.21-04.05.52:975][211]LogExit: Object subsystem successfully closed.
+[2018.05.21-04.05.53:015][211]LogD3D11RHI: Shutdown
+[2018.05.21-04.05.53:016][211]LogD3D11RHI: CleanupD3DDevice
+[2018.05.21-04.05.53:029][211]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.21-04.05.53:139][211]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.05.21-04.05.53:139][211]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.05.21-04.05.53:139][211]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.05.21-04.05.53:139][211]LogModuleManager: Shutting down and abandoning module WorldBrowser (548)
+[2018.05.21-04.05.53:139][211]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.05.21-04.05.53:140][211]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.05.21-04.05.53:140][211]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.21-04.05.53:141][211]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.05.21-04.05.53:141][211]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.05.21-04.05.53:141][211]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.05.21-04.05.53:142][211]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.05.21-04.05.53:142][211]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.05.21-04.05.53:143][211]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.05.21-04.05.53:144][211]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.05.21-04.05.53:145][211]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.05.21-04.05.53:146][211]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.05.21-04.05.53:146][211]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.05.21-04.05.53:149][211]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.05.21-04.05.53:150][211]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.05.21-04.05.53:151][211]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.05.21-04.05.53:151][211]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.05.21-04.05.53:151][211]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.05.21-04.05.53:151][211]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.05.21-04.05.53:151][211]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.05.21-04.05.53:152][211]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.05.21-04.05.53:153][211]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.05.21-04.05.53:155][211]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.05.21-04.05.53:156][211]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.05.21-04.05.53:157][211]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.05.21-04.05.53:158][211]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.05.21-04.05.53:158][211]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.05.21-04.05.53:158][211]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.05.21-04.05.53:429][211]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.05.21-04.05.53:429][211]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.05.21-04.05.53:429][211]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.05.21-04.05.53:429][211]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.05.21-04.05.53:429][211]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.05.21-04.05.53:430][211]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.05.21-04.05.53:430][211]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.05.21-04.05.53:431][211]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.05.21-04.05.53:431][211]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.05.21-04.05.53:432][211]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.05.21-04.05.53:432][211]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.05.21-04.05.53:432][211]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.05.21-04.05.53:432][211]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.05.21-04.05.53:432][211]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.05.21-04.05.53:433][211]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.05.21-04.05.53:433][211]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.05.21-04.05.53:433][211]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.05.21-04.05.53:433][211]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.05.21-04.05.53:433][211]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.05.21-04.05.53:434][211]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.05.21-04.05.53:435][211]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.05.21-04.05.53:436][211]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.05.21-04.05.53:436][211]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.05.21-04.05.53:437][211]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.05.21-04.05.53:503][211]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.05.21-04.05.53:504][211]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.05.21-04.05.53:505][211]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.05.21-04.05.53:508][211]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.05.21-04.05.53:508][211]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.05.21-04.05.53:508][211]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.05.21-04.05.53:509][211]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.05.21-04.05.53:510][211]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.05.21-04.05.53:510][211]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.05.21-04.05.53:510][211]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.05.21-04.05.53:527][211]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.05.21-04.05.53:528][211]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.05.21-04.05.53:528][211]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.05.21-04.05.53:528][211]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.05.21-04.05.53:529][211]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.05.21-04.05.53:530][211]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.05.21-04.05.53:531][211]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.05.21-04.05.53:532][211]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.05.21-04.05.53:532][211]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.05.21-04.05.53:698][211]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.05.21-04.05.53:699][211]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.05.21-04.05.53:699][211]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.05.21-04.05.53:699][211]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.05.21-04.05.53:700][211]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.05.21-04.05.53:701][211]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.05.21-04.05.53:701][211]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.05.21-04.05.53:703][211]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.05.21-04.05.53:703][211]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.05.21-04.05.53:703][211]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.21-04.05.53:703][211]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.21-04.05.53:704][211]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.21-04.05.53:704][211]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.21-04.05.53:704][211]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.21-04.05.53:704][211]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.21-04.05.53:704][211]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.21-04.05.53:707][211]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.21-04.05.53:708][211]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.21-04.05.53:708][211]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.21-04.05.53:708][211]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.21-04.05.53:708][211]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.21-04.05.53:709][211]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.21-04.05.53:710][211]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.21-04.05.53:711][211]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.21-04.05.53:712][211]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.21-04.05.53:712][211]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.21-04.05.53:712][211]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.21-04.05.53:712][211]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.21-04.05.53:713][211]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.21-04.05.53:713][211]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.21-04.05.53:715][211]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.21-04.05.53:717][211]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.21-04.05.53:717][211]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.21-04.05.53:717][211]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.21-04.05.53:717][211]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.21-04.05.53:718][211]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.21-04.05.53:820][211]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.21-04.05.53:921][211]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.21-04.05.53:922][211]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.21-04.05.53:922][211]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.21-04.05.53:922][211]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.21-04.05.53:923][211]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.21-04.05.53:923][211]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.21-04.05.53:925][211]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.21-04.05.53:925][211]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.21-04.05.53:925][211]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.21-04.05.53:926][211]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.21-04.05.53:930][211]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.21-04.05.53:937][211]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.21-04.05.53:937][211]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.21-04.05.53:937][211]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.21-04.05.53:938][211]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.21-04.05.53:938][211]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.21-04.05.53:939][211]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.21-04.05.53:939][211]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.21-04.05.53:939][211]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.21-04.05.53:940][211]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.21-04.05.53:940][211]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.21-04.05.53:941][211]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.21-04.05.53:943][211]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.21-04.05.53:945][211]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.21-04.05.53:945][211]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.21-04.05.53:948][211]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.21-04.05.53:948][211]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.21-04.05.53:955][211]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.21-04.05.53:956][211]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.21-04.05.53:957][211]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.21-04.05.53:958][211]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.21-04.05.53:959][211]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.21-04.05.53:959][211]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.21-04.05.53:959][211]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.21-04.05.53:959][211]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.21-04.05.53:960][211]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.21-04.05.53:960][211]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.21-04.05.54:015][211]LogDerivedDataCache: Shutdown
+[2018.05.21-04.05.54:015][211]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.21-04.05.54:015][211]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.21-04.05.54:016][211]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.21-04.05.54:016][211]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.21-04.05.54:016][211]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.21-04.05.54:017][211]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.21-04.05.54:018][211]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.21-04.05.54:018][211]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.21-04.05.54:018][211]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.21-04.05.54:018][211]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.21-04.05.54:019][211]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.21-04.05.54:020][211]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.21-04.05.54:021][211]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.21-04.05.54:021][211]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.21-04.05.54:021][211]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.21-04.05.54:021][211]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.21-04.05.54:021][211]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.21-04.05.54:022][211]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.21-04.05.54:023][211]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.21-04.05.54:023][211]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.21-04.05.54:023][211]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EEE1170-42E5-8EBD-9FB5-CDB0F0AF34A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=bce2794443cbec5b3a6dff9c3f3a0867%7C2868b6c758a842479788b51d867ff5f4%7Cb49d2c66-9024-4445-91fb-748f732dcd52&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.21-04.05.54:058][211]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.21-04.05.54:061][211]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.21-04.05.54:061][211]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.21-04.05.54:062][211]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.21-04.05.54:063][211]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.21-04.05.54:064][211]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.21-04.05.54:064][211]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.21-04.05.54:064][211]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.21-04.05.54:067][211]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.21-04.05.54:068][211]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.21-04.05.54:068][211]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.21-04.05.54:069][211]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.21-04.05.54:070][211]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.21-04.05.54:070][211]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.21-04.05.54:082][211]LogExit: Exiting.
+[2018.05.21-04.05.54:391][211]Log file closed, 05/21/18 12:05:54

@@ -1,0 +1,566 @@
+﻿Log file open, 04/27/18 11:01:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BackyardMechanic
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1313491835) SRandInit(1313491869).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396953
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.27-03.01.46:296][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.27-03.01.46:296][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.27-03.01.46:748][  0]LogInit: Computer: TAZITH
+[2018.04.27-03.01.46:748][  0]LogInit: User: dramoth
+[2018.04.27-03.01.46:748][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.04.27-03.01.46:748][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2018.04.27-03.01.46:749][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.27-03.01.46:749][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.27-03.01.46:749][  0]LogMemory: Process Physical Memory: 275.88 MB used, 275.88 MB peak
+[2018.04.27-03.01.46:749][  0]LogMemory: Process Virtual Memory: 272.44 MB used, 272.44 MB peak
+[2018.04.27-03.01.46:749][  0]LogMemory: Physical Memory: 8310.83 MB used,  8020.05 MB free, 16330.89 MB total
+[2018.04.27-03.01.46:749][  0]LogMemory: Virtual Memory: 671.58 MB used,  8020.05 MB free, 134217728.00 MB total
+[2018.04.27-03.01.48:441][  0]LogInit: Using OS detected language (en-GB).
+[2018.04.27-03.01.48:441][  0]LogInit: Using OS detected locale (en-AU).
+[2018.04.27-03.01.48:452][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.04.27-03.01.49:601][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.27-03.01.50:816][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.27-03.01.51:107][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.04.27-03.01.51:107][  0]LogD3D11RHI:       11127/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.27-03.01.51:117][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.27-03.01.51:118][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.27-03.01.51:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.27-03.01.51:140][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.27-03.01.51:140][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.27-03.01.51:140][  0]LogWindows: EnumDisplayDevices:
+[2018.04.27-03.01.51:140][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.04.27-03.01.51:141][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.04.27-03.01.51:141][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.04.27-03.01.51:142][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.04.27-03.01.51:142][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.27-03.01.51:142][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.04.27-03.01.51:142][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.27-03.01.51:142][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.27-03.01.51:142][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.04.27-03.01.51:283][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.27-03.01.51:342][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.27-03.01.51:403][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (V:/Unreal Projects/BackyardMechanic/Intermediate/Shaders/WorkingDirectory/1696/).
+[2018.04.27-03.01.51:403][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dramoth/AppData/Local/Temp/UnrealShaderWorkingDir/52B8A7B148502A0AB3EB18AB837D3997/'.
+[2018.04.27-03.01.51:403][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.27-03.01.55:147][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.27-03.01.55:448][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.27-03.01.55:690][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.27-03.01.55:934][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.27-03.01.56:163][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.27-03.01.56:551][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.27-03.01.56:794][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.27-03.01.57:028][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.27-03.01.57:240][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.27-03.01.57:467][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.27-03.01.57:743][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.27-03.01.58:014][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.27-03.01.58:258][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.27-03.01.58:524][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.27-03.01.59:136][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.27-03.01.59:137][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.27-03.01.59:378][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.27-03.01.59:580][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.27-03.01.59:943][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.27-03.02.00:087][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.27-03.02.00:347][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.27-03.02.00:628][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.27-03.02.00:871][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.27-03.02.01:111][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.27-03.02.01:111][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.27-03.02.03:234][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.27-03.02.03:427][  0]LogDerivedDataCache: Loaded boot cache 0.19s 78MB C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.27-03.02.03:427][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.27-03.02.03:429][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file V:/Unreal Projects/BackyardMechanic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.27-03.02.03:429][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.27-03.02.03:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file V:/Unreal Projects/BackyardMechanic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.27-03.02.03:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.27-03.02.03:486][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.27-03.02.03:502][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dramoth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.27-03.02.03:530][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.27-03.02.03:530][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.27-03.02.03:532][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.27-03.02.03:532][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.27-03.02.05:027][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.27-03.02.06:415][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.27-03.02.06:608][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.27-03.02.06:608][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.27-03.02.06:608][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.27-03.02.06:608][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.27-03.02.06:608][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.27-03.02.06:735][  0]LogNetVersion: BackyardMechanic , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2904870437)
+[2018.04.27-03.02.07:389][  0]LogAssetRegistry: FAssetRegistry took 0.1250 seconds to start up
+[2018.04.27-03.02.16:770][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 6.486341 seconds
+[2018.04.27-03.02.16:788][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.27-03.02.16:788][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.27-03.02.16:788][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.27-03.02.17:317][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.27-03.02.28:837][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.27-03.02.29:000][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.27-03.02.29:002][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.02.32:791][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.27-03.02.35:071][  0]SourceControl: Source control is disabled
+[2018.04.27-03.02.35:071][  0]SourceControl: Source control is disabled
+[2018.04.27-03.02.35:322][  0]SourceControl: Source control is disabled
+[2018.04.27-03.02.35:550][  0]SourceControl: Source control is disabled
+[2018.04.27-03.02.39:286][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.27-03.02.40:510][  0]LogOcInput: OculusInput pre-init called
+[2018.04.27-03.02.41:798][  0]LogEngine: Initializing Engine...
+[2018.04.27-03.02.41:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.27-03.02.42:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.27-03.02.42:608][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.27-03.02.43:213][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.27-03.02.43:374][  0]LogInit: XAudio2 using 'ASUS VE278 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.27-03.02.43:414][  0]LogInit: FAudioDevice initialized.
+[2018.04.27-03.02.43:559][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/dramoth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.27-03.02.43:612][  0]LogInit: Texture streaming: Enabled
+[2018.04.27-03.02.44:037][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.27-03.02.44:635][  0]LogInit: Transaction tracking system initialized
+[2018.04.27-03.02.46:184][  0]BlueprintLog: New page: Editor Load
+[2018.04.27-03.02.50:927][  0]LocalizationService: Localization service is disabled
+[2018.04.27-03.02.54:810][  0]LogConsoleResponse: Display: 
+[2018.04.27-03.02.55:828][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.27-03.02.55:828][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.27-03.02.55:829][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.27-03.02.57:456][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/' took 1.73s
+[2018.04.27-03.03.02:053][  0]SourceControl: Source control is disabled
+[2018.04.27-03.03.02:054][  0]Cmd: MAP LOAD FILE="V:/Unreal Projects/BackyardMechanic/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.27-03.03.02:086][  0]LightingResults: New page: Lighting Build
+[2018.04.27-03.03.02:269][  0]MapCheck: New page: Map Check
+[2018.04.27-03.03.02:270][  0]LightingResults: New page: Lighting Build
+[2018.04.27-03.03.14:138][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.27-03.03.14:202][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.27-03.03.14:245][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.27-03.03.14:833][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 587.885ms to complete.
+[2018.04.27-03.03.14:834][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.780
+[2018.04.27-03.03.15:495][  0]LogCollectionManager: Loaded 0 collections in 0.176298 seconds
+[2018.04.27-03.03.15:798][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' took 0.01s
+[2018.04.27-03.03.15:798][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' took 0.01s
+[2018.04.27-03.03.15:798][  0]LogFileCache: Scanning file cache for directory 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' took 0.01s
+[2018.04.27-03.03.15:798][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2018.04.27-03.03.15:826][  0]LogContentBrowser: Native class hierarchy populated in 0.0280 seconds. Added 2363 classes and 519 folders.
+[2018.04.27-03.03.16:126][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.04.27-03.03.16:372][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.27-03.03.16:580][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.04.27-03.03.17:221][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0011 seconds. Added 2 classes and 3 folders.
+[2018.04.27-03.03.17:255][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.27-03.03.17:262][  0]LogSlate: Took 0.000776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.27-03.03.17:278][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.27-03.03.17:585][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.27-03.03.18:345][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.04.27-03.03.18:346][  0]LogLoad: (Engine Initialization) Total time: 111.73 seconds
+[2018.04.27-03.03.18:346][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.27-03.03.18:346][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.27-03.03.18:346][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.27-03.03.18:711][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.18:713][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/', and we were unable to create a new request.
+[2018.04.27-03.03.18:713][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.18:713][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.18:714][  0]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.18:729][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.27-03.03.19:037][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.19:039][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Saved/Collections/', and we were unable to create a new request.
+[2018.04.27-03.03.19:039][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.19:040][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Developers/dramoth/Collections/', and we were unable to create a new request.
+[2018.04.27-03.03.19:040][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.04.27-03.03.19:041][  1]LogDirectoryWatcher: A directory notification failed for 'V:/Unreal Projects/BackyardMechanic/Content/Collections/', and we were unable to create a new request.
+[2018.04.27-03.03.19:096][  1]LogSlate: Took 0.000725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.27-03.03.19:810][  3]LogSlate: Took 0.001124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.27-03.03.24:109][  5]LogAssetRegistry: Asset discovery search completed in 76.7434 seconds
+[2018.04.27-03.03.24:114][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.04.27-03.03.24:115][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000175 seconds (updated 0 objects)
+[2018.04.27-03.06.38:467][585]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.27-03.06.39:058][585]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0318 seconds. Added 1 classes and 2 folders.
+[2018.04.27-03.06.39:694][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.27-03.06.40:680][585]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.27-03.06.40:944][585]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.04.27-03.06.43:124][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.27-03.06.46:493][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.27-03.06.46:691][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.04.27-03.06.48:008][585]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0022 seconds. Added 1 classes and 0 folders.
+[2018.04.27-03.06.48:107][585]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.27-03.06.51:940][666]LogSlate: Took 0.002324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.27-03.06.52:168][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.27-03.06.52:217][667]LogSlate: Took 0.002207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.27-03.07.03:361][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.27-03.07.04:635][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Liam_AI_C (BP_Liam_AI)
+[2018.04.27-03.07.07:442][167]Cmd: DELETE
+[2018.04.27-03.07.07:442][167]Cmd: ACTOR DELETE
+[2018.04.27-03.07.08:874][167]LogEditorActor: Deleted Actor: BP_Liam_AI_C
+[2018.04.27-03.07.08:943][167]LogEditorActor: Deleted 1 Actors (1.492 secs)
+[2018.04.27-03.08.05:318][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:321][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:321][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:326][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:327][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:327][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:332][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:335][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:335][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:339][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:341][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:341][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:345][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:347][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:347][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:393][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:395][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:395][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:400][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:402][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:402][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:409][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:411][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:411][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:416][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:418][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:419][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:423][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:425][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:425][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:432][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:434][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:434][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:438][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:440][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:440][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:444][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:446][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:446][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:451][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:453][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:453][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:457][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:459][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:459][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:468][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:470][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:470][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:475][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:477][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:477][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:482][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:483][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:483][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:489][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:491][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:491][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:495][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:497][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:497][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:660][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:662][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:662][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:668][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:670][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:670][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:674][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:676][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:676][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:681][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:683][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:683][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:688][885]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.27-03.08.05:689][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Topmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:690][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:699][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:701][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:701][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:706][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:707][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:707][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:712][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:714][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:714][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:719][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:721][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:721][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:725][885]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.27-03.08.05:727][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Shoesmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:727][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:733][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:735][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:735][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:740][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:742][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:742][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:747][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:749][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:749][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:754][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:755][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:755][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:760][885]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.27-03.08.05:761][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bottommat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:761][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:770][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:772][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:772][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:777][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:778][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:778][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:783][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:785][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:785][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:790][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:791][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:791][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.05:795][885]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.27-03.08.05:797][885]LogMaterial: Warning: V:\Unreal Projects\BackyardMechanic\Content\NPCs\Liam\Animations\Bodymat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.27-03.08.05:797][885]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.27-03.08.07:560][885]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.955 s
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: 
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2325]
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: 
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: Stack: 
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: [Callstack] 0x00000000F2472786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.27-03.08.07:560][885]LogOutputDevice: Error: [Callstack] 0x00000000F221123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F222B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E9A6517B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E923F989 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E94BD292 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E9444C92 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E9447CA9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E94B5A85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0FD2B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0FFEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E15EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0DE8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E828A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E6B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E5D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F373E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F3731A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F37403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F372D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000563CB85D USER32.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000563CB1EF USER32.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F3741479 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E8DB46 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E1F3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E954AB1C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000E9A5B553 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.27-03.08.07:561][885]LogOutputDevice: Error: [Callstack] 0x00000000DB37744D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB37F776 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB2F3C4E UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB2F70B9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB37B965 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB3795A7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB3DEDF9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB2F3FC2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB2F7389 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000DB37C675 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0FD2B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0FFEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E15EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0DE8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E828A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E6B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F0E5D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F373E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F3731A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F37403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F372D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000563CB85D USER32.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000563CB1EF USER32.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x00000000F3741516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x000000007E6E50C8 UE4Editor.exe!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x000000007E6F5430 UE4Editor.exe!UnknownFunction []
+[2018.04.27-03.08.07:562][885]LogOutputDevice: Error: [Callstack] 0x000000007E6F54AA UE4Editor.exe!UnknownFunction []
+[2018.04.27-03.08.07:563][885]LogOutputDevice: Error: [Callstack] 0x000000007E702379 UE4Editor.exe!UnknownFunction []
+[2018.04.27-03.08.07:563][885]LogOutputDevice: Error: [Callstack] 0x000000007E703D57 UE4Editor.exe!UnknownFunction []
+[2018.04.27-03.08.07:563][885]LogOutputDevice: Error: [Callstack] 0x00000000585B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.27-03.08.07:563][885]LogOutputDevice: Error: [Callstack] 0x0000000058CFF061 ntdll.dll!UnknownFunction []
+[2018.04.27-03.08.07:563][885]LogOutputDevice: Error: 
+[2018.04.27-03.08.07:570][885]LogStats:                SubmitErrorReport -  0.000 s
